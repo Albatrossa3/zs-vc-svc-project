@@ -1,0 +1,257 @@
+{
+  "results": [
+    {
+      "mode": "VC",
+      "pair": "1-1",
+      "spk_sim": 0.7965463995933533,
+      "dur_ratio": 0.9997480472282411,
+      "source": "conversion_demo\\vc\\vc-source-1.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-1.wav",
+      "converted": "conversion_demo\\vc\\vc-1-1.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "1-2",
+      "spk_sim": 0.8343971967697144,
+      "dur_ratio": 0.9997480472282411,
+      "source": "conversion_demo\\vc\\vc-source-1.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-2.wav",
+      "converted": "conversion_demo\\vc\\vc-1-2.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "1-3",
+      "spk_sim": 0.8455279469490051,
+      "dur_ratio": 0.9997480472282411,
+      "source": "conversion_demo\\vc\\vc-source-1.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-3.wav",
+      "converted": "conversion_demo\\vc\\vc-1-3.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "2-1",
+      "spk_sim": 0.723686158657074,
+      "dur_ratio": 0.9987102708313276,
+      "source": "conversion_demo\\vc\\vc-source-2.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-1.wav",
+      "converted": "conversion_demo\\vc\\vc-2-1.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "2-2",
+      "spk_sim": 0.8034761548042297,
+      "dur_ratio": 0.9987102708313276,
+      "source": "conversion_demo\\vc\\vc-source-2.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-2.wav",
+      "converted": "conversion_demo\\vc\\vc-2-2.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "2-3",
+      "spk_sim": 0.7405256032943726,
+      "dur_ratio": 0.9987102708313276,
+      "source": "conversion_demo\\vc\\vc-source-2.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-3.wav",
+      "converted": "conversion_demo\\vc\\vc-2-3.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "3-1",
+      "spk_sim": 0.752643346786499,
+      "dur_ratio": 0.9992466343008801,
+      "source": "conversion_demo\\vc\\vc-source-3.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-1.wav",
+      "converted": "conversion_demo\\vc\\vc-3-1.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "3-2",
+      "spk_sim": 0.8475959300994873,
+      "dur_ratio": 0.9992466343008801,
+      "source": "conversion_demo\\vc\\vc-source-3.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-2.wav",
+      "converted": "conversion_demo\\vc\\vc-3-2.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "3-3",
+      "spk_sim": 0.849563479423523,
+      "dur_ratio": 0.9992466343008801,
+      "source": "conversion_demo\\vc\\vc-source-3.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-3.wav",
+      "converted": "conversion_demo\\vc\\vc-3-3.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "4-1",
+      "spk_sim": 0.7224418520927429,
+      "dur_ratio": 0.9992045846409919,
+      "source": "conversion_demo\\vc\\vc-source-4.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-1.wav",
+      "converted": "conversion_demo\\vc\\vc-4-1.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "4-2",
+      "spk_sim": 0.7852655649185181,
+      "dur_ratio": 0.9992045846409919,
+      "source": "conversion_demo\\vc\\vc-source-4.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-2.wav",
+      "converted": "conversion_demo\\vc\\vc-4-2.wav"
+    },
+    {
+      "mode": "VC",
+      "pair": "4-3",
+      "spk_sim": 0.75772625207901,
+      "dur_ratio": 0.9992045846409919,
+      "source": "conversion_demo\\vc\\vc-source-4.wav",
+      "reference": "conversion_demo\\vc\\vc-ref-3.wav",
+      "converted": "conversion_demo\\vc\\vc-4-3.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "1-1",
+      "spk_sim": 0.8156391978263855,
+      "f0_med_err_semi": 0.18810097191624864,
+      "f0_rmse_cents": 110.52558503928518,
+      "key_offset_vs_ref_semi": -0.021697950785107167,
+      "dur_ratio": 0.4407290413354375,
+      "source": "conversion_demo\\svc\\svc-source-1.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-1.wav",
+      "converted": "conversion_demo\\svc\\svc-1-1.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "1-2",
+      "spk_sim": 0.7000806927680969,
+      "f0_med_err_semi": 0.7824926069815001,
+      "f0_rmse_cents": 164.1162653770997,
+      "key_offset_vs_ref_semi": -0.21639123422627193,
+      "dur_ratio": 0.999710493612147,
+      "source": "conversion_demo\\svc\\svc-source-1.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-2.wav",
+      "converted": "conversion_demo\\svc\\svc-1-2.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "1-3",
+      "spk_sim": 0.6008081436157227,
+      "f0_med_err_semi": 0.9088201311398413,
+      "f0_rmse_cents": 198.6750376913459,
+      "key_offset_vs_ref_semi": 0.37182088152120585,
+      "dur_ratio": 0.999710493612147,
+      "source": "conversion_demo\\svc\\svc-source-1.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-3.wav",
+      "converted": "conversion_demo\\svc\\svc-1-3.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "2-1",
+      "spk_sim": 0.9076647758483887,
+      "f0_med_err_semi": 0.11569240041673903,
+      "f0_rmse_cents": 61.587847466902204,
+      "key_offset_vs_ref_semi": 0.03945536756442891,
+      "dur_ratio": 0.9997515754268455,
+      "source": "conversion_demo\\svc\\svc-source-2.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-1.wav",
+      "converted": "conversion_demo\\svc\\svc-2-1.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "2-2",
+      "spk_sim": 0.6033341884613037,
+      "f0_med_err_semi": 0.1083664672824247,
+      "f0_rmse_cents": 31.346581089728648,
+      "key_offset_vs_ref_semi": -0.004080032689493862,
+      "dur_ratio": 0.9997515754268455,
+      "source": "conversion_demo\\svc\\svc-source-2.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-2.wav",
+      "converted": "conversion_demo\\svc\\svc-2-2.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "2-3",
+      "spk_sim": 0.6986767053604126,
+      "f0_med_err_semi": 0.12103777606206732,
+      "f0_rmse_cents": 30.263274661906504,
+      "key_offset_vs_ref_semi": 0.41571612660067103,
+      "dur_ratio": 0.9997515754268455,
+      "source": "conversion_demo\\svc\\svc-source-2.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-3.wav",
+      "converted": "conversion_demo\\svc\\svc-2-3.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "3-1",
+      "spk_sim": 0.8781096935272217,
+      "f0_med_err_semi": 0.18235859052923245,
+      "f0_rmse_cents": 79.94385959387544,
+      "key_offset_vs_ref_semi": 0.003253762694445328,
+      "dur_ratio": 0.999460524429814,
+      "source": "conversion_demo\\svc\\svc-source-3.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-1.wav",
+      "converted": "conversion_demo\\svc\\svc-3-1.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "3-2",
+      "spk_sim": 0.619354784488678,
+      "f0_med_err_semi": 0.11978282471591861,
+      "f0_rmse_cents": 76.95321168958993,
+      "key_offset_vs_ref_semi": -0.0020819163863592394,
+      "dur_ratio": 0.999460524429814,
+      "source": "conversion_demo\\svc\\svc-source-3.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-2.wav",
+      "converted": "conversion_demo\\svc\\svc-3-2.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "3-3",
+      "spk_sim": 0.6511073112487793,
+      "f0_med_err_semi": 0.18118323799329444,
+      "f0_rmse_cents": 89.22497490141387,
+      "key_offset_vs_ref_semi": 0.43966075682076067,
+      "dur_ratio": 0.999460524429814,
+      "source": "conversion_demo\\svc\\svc-source-3.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-3.wav",
+      "converted": "conversion_demo\\svc\\svc-3-3.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "4-1",
+      "spk_sim": 0.8863948583602905,
+      "f0_med_err_semi": 0.379386375524794,
+      "f0_rmse_cents": 98.7399488342958,
+      "key_offset_vs_ref_semi": -0.0882912246919787,
+      "dur_ratio": 0.9996862706909841,
+      "source": "conversion_demo\\svc\\svc-source-4.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-1.wav",
+      "converted": "conversion_demo\\svc\\svc-4-1.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "4-2",
+      "spk_sim": 0.6940009593963623,
+      "f0_med_err_semi": 0.20322904788815255,
+      "f0_rmse_cents": 94.08169059794612,
+      "key_offset_vs_ref_semi": -0.3345813572547556,
+      "dur_ratio": 0.9996862706909841,
+      "source": "conversion_demo\\svc\\svc-source-4.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-2.wav",
+      "converted": "conversion_demo\\svc\\svc-4-2.wav"
+    },
+    {
+      "mode": "SVC",
+      "pair": "4-3",
+      "spk_sim": 0.6181182265281677,
+      "f0_med_err_semi": 0.4605376795432281,
+      "f0_rmse_cents": 104.11080878633003,
+      "key_offset_vs_ref_semi": 0.37636286880610825,
+      "dur_ratio": 0.9996862706909841,
+      "source": "conversion_demo\\svc\\svc-source-4.wav",
+      "reference": "conversion_demo\\svc\\svc-ref-3.wav",
+      "converted": "conversion_demo\\svc\\svc-4-3.wav"
+    }
+  ],
+  "notes": "VC rows: speaker similarity (conv vs ref), duration ratio only. SVC rows: add F0 contour error (conv vs source, key-normalized) and key offset vs ref. Higher spk_sim is better. Lower F0 errors are better. dur_ratio ~ 1.0 indicates timing preserved. WER/ASR omitted due to instability on singing and multilingual inputs."
+}

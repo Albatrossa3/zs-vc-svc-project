@@ -1,0 +1,24 @@
+# core ML/audio
+torch>=2.1
+torchaudio>=2.1
+
+# numerics/audio utils
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12.1
+librosa>=0.10.1
+numba>=0.58
+tqdm>=4.66
+PyYAML>=6.0.1
+requests>=2.31
+
+# models/tokenizers
+transformers>=4.41
+huggingface_hub>=0.20
+
+# web UI
+gradio>=4.19,<5
+pydub>=0.25.1
+
+# vocal separation (UVR-style)
+demucs>=4.0.0
