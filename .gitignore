@@ -1,0 +1,39 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Environments/IDE
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local caches/outputs
+cache_inputs/
+checkpoints/
+outputs/
+logs/
+
+# Do not upload model assets
+VC/models/**
+SVC/models/**
+
+# Specific large binaries
+VC/campplus_cn_common.bin
+SVC/campplus_cn_common.bin
+
+
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.safetensors
+**/*_weights.bin
